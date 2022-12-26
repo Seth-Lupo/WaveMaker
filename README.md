@@ -1,5 +1,4 @@
 # Wave Maker
-Semester 1 CS Final Project
 
 # Controls
 
